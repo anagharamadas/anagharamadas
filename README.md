@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anagha  and I'm an Tech enthusiast, from India, currently pursuing my Masters in AI and ML in the UK. I have approximately 1 year of professional experience as a Full Stack Developer. I am curious about anything and everything that involves tech and hope to be skilled in various tech domains like AI, ML, Web, and Security with time.</p>
+<p align="left">My name is Anagha  and I'm an Tech enthusiast, from India, just completed my Masters in AI and ML from University of Birmingham, United Kingdom. I have approximately 1 year of professional experience as a Full Stack Developer. I am curious about anything and everything that involves tech and hope to be skilled in various tech domains like AI, ML, Web, and Security with time.</p>
 
 ###
 
